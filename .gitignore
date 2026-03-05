@@ -1,0 +1,7 @@
+data/autism_snps.csv
+models/classifier.pkl
+models/scaler.pkl
+models/feature_cols.pkl
+__pycache__/
+*.pyc
+.DS_Store
